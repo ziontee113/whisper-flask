@@ -1,6 +1,5 @@
 pyaudio
 wave
-keyboard
 openai-whisper
 pyautogui
-argparse
+flask
